@@ -9,3 +9,8 @@ The code in this repository is meant for a physical product that was completely 
 
 # Usage
 To run the code, you need to add the Custom Libraries to your Arduino library folder and install one additional external library, which can be found here: https://github.com/nRF24/RF24
+
+# Prototype Images
+<img src="prototype_front.jpeg" alt="Prototype - front" width="400"> <img src="prototype_side.jpeg" alt="Prototype - side" width="400">
+
+<img src="wiring.jpeg" alt="Wiring" width="400"> <img src="CAD.png" alt="CAD model" width="400">
